@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "323722900521",
+    "project_id": "carehome-eb6b2",
+    "storage_bucket": "carehome-eb6b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323722900521:android:1d6cef661c253820a35838",
+        "android_client_info": {
+          "package_name": "com.logde.carehome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323722900521-1n18ehol3un83mg70an4q3ah1bmmnjj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logde.carehome",
+            "certificate_hash": "c24898efe5e126f94d1fb19c6188ebe65c3ab97f"
+          }
+        },
+        {
+          "client_id": "323722900521-iku7ifdlc1sn0tc02m3sdbj66ds93q81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXwPQqPxr245zxjgsF57phnLhRD_4Ugd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323722900521-iku7ifdlc1sn0tc02m3sdbj66ds93q81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
